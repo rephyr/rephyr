@@ -1,3 +1,5 @@
+# Hi! I'm Emilia!
+
 # 💫 About Me:
 💻 I’m a software engineer passionate about building everything from sleek websites to handy automation scripts. I love turning ideas into reality through code.<br>🏫 4th year CS student at Tampere University<br>📷 Photography enthusiast
 
