@@ -13,4 +13,12 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rephyr&theme=moltack&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Course Project: Test Manager & Unit Test Developer [MMT](https://github.com/MMT-Metrics-Monitoring-Tool/MMT)
+
+As part of my university coursework, I worked as **Test Manager** and **Developer** on the MMT Project Management Web App.  
+My responsibilities included:
+- Writing **and coordinating** unit tests using **CakePHP** and **PHPUnit**.
+- Performing **bug fixes** and small updates to improve the application.
+- Managing the **final testing phase** before project completion, ensuring everything worked correctly.
+> **Note:** The public repository is not fully up-to-date and does not yet include my unit test contributions.
+
