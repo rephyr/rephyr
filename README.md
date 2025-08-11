@@ -20,6 +20,6 @@ My responsibilities included:
 - Writing **and coordinating** unit tests using **CakePHP** and **PHPUnit**.
 - Performing **bug fixes** and small updates to improve the application.
 - Managing the **final testing phase** before project completion, ensuring everything worked correctly.
-- Writing a comprehensive Testing report
+- Writing a comprehensive testing report
 > **Note:** The public repository is not fully up-to-date and does not yet include my unit test contributions.
 
