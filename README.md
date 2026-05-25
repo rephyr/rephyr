@@ -1,6 +1,7 @@
 # Hi! I'm Emilia!
 ## 💫 About Me
-💻 Software engineer building CLI tools, automation scripts and web apps. Currently working on **The-Tab**: a multiplayer drinking game with thermal receipt printer integration.
+💻 Software engineer building CLI tools, automation scripts and web apps. 
+Currently working on **The-Tab**: a multiplayer drinking game with thermal receipt printer integration.
 
 🏫 4th year CS student at **Tampere University of Technology**
 
