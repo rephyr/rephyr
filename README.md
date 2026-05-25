@@ -21,5 +21,5 @@ My responsibilities included:
 - Performing **bug fixes** and small updates to improve the application.
 - Managing the **final testing phase** before project completion, ensuring everything worked correctly.
 - Writing a comprehensive testing report
-> **Note:** The public repository is not fully up-to-date and does not yet include my unit test contributions.
+> **Note:** The forked repo contains the implemented tests and reflects my contributions to the project.
 
