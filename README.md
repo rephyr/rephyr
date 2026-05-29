@@ -9,9 +9,8 @@ Currently working on **The-Tab**: a multiplayer drinking game with thermal recei
 
 🌱 Currently exploring Linux systems and low-level programming
 
-
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emiliasipolaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sipolaemiliaa@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilia-sipola-597aa7379)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emiliasipolaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sipolaemiliaa@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilia-sipola-597aa7379) [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=firefox&logoColor=white)](https://emiliasipola.software/)
 
 
 # 💻 Tech Stack:
