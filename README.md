@@ -1,6 +1,6 @@
 # Hi! I'm Emilia!
 ## 💫 About Me
-💻 Software develpor building games, automation scripts and web apps. 
+💻 Software developer building games, automation scripts and web apps. 
 Currently building Klaava, a realtime tournament gambling game with RFID player cards, FastAPI, and React.
 
 🏫 4th year CS student at **Tampere University**
