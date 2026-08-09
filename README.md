@@ -2,13 +2,13 @@
 ## 💫 About Me
 💻 Software developer building games, automation scripts and web apps. 
 
-Currently developing Save Timelapse, an open-source Factorio timelapse tool built with Rust and Lua. It reconstructs factories from existing saves or captures them live, with a focus on large-base performance, efficient binary data formats, and an interactive renderer.
+Actively developing Save Timelapse, an open-source Factorio timelapse tool/mod built with Rust and Lua. It reconstructs factories from existing saves or captures them live, with a focus on large-base performance, efficient binary data formats, and an interactive renderer.
 
 🏫 4th year CS student at **Tampere University**
 
 📷 Photography enthusiast
 
-🌱 Currently exploring Linux systems and low-level programming
+📚 At the moment learning Linux systems, low-level programming, and performance optimization
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sipolaemiliaa@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilia-sipola-597aa7379) [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=firefox&logoColor=white)](https://emiliasipola.software/)
