@@ -1,7 +1,8 @@
 # Hi! I'm Emilia!
 ## 💫 About Me
 💻 Software developer building games, automation scripts and web apps. 
-Currently building Klaava, a realtime tournament gambling game with RFID player cards, FastAPI, and React.
+
+Currently developing Save Timelapse, an open-source Factorio timelapse tool built with Rust and Lua. It reconstructs factories from existing saves or captures them live, with a focus on large-base performance, efficient binary data formats, and an interactive renderer.
 
 🏫 4th year CS student at **Tampere University**
 
