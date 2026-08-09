@@ -1,6 +1,6 @@
 # Hi! I'm Emilia!
 ## 💫 About Me
-💻 Software developer building games, automation scripts and web apps. 
+💻 Software developer who builds games, tools, and web applications to solve problems I encounter myself. I enjoy turning a need or missing tool into a practical solution and exploring the engineering challenges that come with it.
 
 Actively developing Save Timelapse, an open-source Factorio timelapse tool/mod built with Rust and Lua. It reconstructs factories from existing saves or captures them live, with a focus on large-base performance, efficient binary data formats, and an interactive renderer.
 
