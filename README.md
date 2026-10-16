@@ -1,35 +1,29 @@
-# Hi! I'm Emilia!
-## 💫 About Me
-💻 Software developer and founder of **[Mrrp Software](https://mrrpsoftware.com)**, my own small software company from Tampere, Finland. I build games, tools, and web applications to solve problems I encounter myself. I enjoy turning a need or missing tool into a practical solution and exploring the engineering challenges that come with it.
+# Hi! I'm Emilia
 
-🐾 What I'm building at Mrrp Software:
-- **[PubToPDF](https://pubtopdf.app)**: opens old Microsoft Publisher (.pub) files as PDF, Word or images right in the browser, without uploading anything. Built on my [fork of libmspub](https://github.com/rephyr/libmspub) compiled to WebAssembly, with a custom renderer.
-- **[Mrrp Games](https://mrrp.games)**: our games label. Small, cosy co-op games made in Godot, mostly about cats.
+Web developer and founder of **[Mrrp Software](https://mrrpsoftware.com)**, a small web studio from Tampere, Finland. I design and build websites and web tools for small businesses: fast, easy to use, and without the bureaucracy of bigger software firms. From one small business to another.
 
-🛠️ Also working on **Save Timelapse**, an open-source Factorio timelapse tool/mod built with Rust and Lua. It reconstructs factories from existing saves or captures them live, with a focus on large-base performance, efficient binary data formats, and an interactive renderer.
+## 🌐 What I do
 
-🏫 Computer Science at **Tampere University** (on a break to run Mrrp Software)
+- **Websites for small businesses**, designed and coded by hand, no templates
+- **Booking, web shops, quote requests and order forms** that customers use on their own
+- **Publishing and upkeep**: hosting on Cloudflare, secure connections, backups, updates and search engine optimisation
 
-📷 Photography enthusiast
+## 🐾 Work
 
-📚 At the moment learning Linux systems, low-level programming, and performance optimization
+- **[mrrpsoftware.com](https://mrrpsoftware.com)**: a website shop. Pick what your site needs, see the price as you go, and get a free preview before you pay. Hand-built with JavaScript, three.js and Cloudflare Workers.
 
-## 🌐 Socials:
+## 💻 Tech stack
+
+**Web:** HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, three.js, Node.js, PHP, CakePHP
+**Publishing and servers:** Cloudflare Workers, SQLite, Docker, Linux, Git, GitHub, GitLab
+**Programming:** Python, Rust, C++, Lua, WebAssembly
+
+## 🏫 Background
+
+Computer Science at **Tampere University** (on a break to run Mrrp Software). As a course project I was the test manager and a developer on the [MMT](https://github.com/MMT-Metrics-Monitoring-Tool/MMT) project management web app: unit tests with CakePHP and PHPUnit, bug fixes, and the final testing phase and report.
+
+📷 I'm also a photographer. That eye for light, space and framing goes into every site I design.
+
+## 📫 Contact
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sipolaemiliaa@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilia-sipola-597aa7379) [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=firefox&logoColor=white)](https://emiliasipola.software/) [![Mrrp Software](https://img.shields.io/badge/Mrrp%20Software-f0a9c6.svg?logoColor=white)](https://mrrpsoftware.com)
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Godot](https://img.shields.io/badge/godot-%23478cbf.svg?style=flat&logo=godot-engine&logoColor=white) ![WebAssembly](https://img.shields.io/badge/webassembly-%23654FF0.svg?style=flat&logo=webassembly&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rephyr&theme=moltack&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### Course Project: Test Manager & Unit Test Developer [MMT](https://github.com/MMT-Metrics-Monitoring-Tool/MMT)
-
-As part of my university coursework, I worked as **Test Manager** and **Developer** on the MMT Project Management Web App.  
-My responsibilities included:
-- Writing **and coordinating** unit tests using **CakePHP** and **PHPUnit**.
-- Performing **bug fixes** and small updates to improve the application.
-- Managing the **final testing phase** before project completion, ensuring everything worked correctly.
-- Writing a comprehensive testing report
-> **Note:** The forked repo contains the implemented tests and reflects my contributions to the project.
-
